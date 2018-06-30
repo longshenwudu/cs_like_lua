@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_like_lua", "cs_like_lua\cs_like_lua.csproj", "{FE165B01-133F-4F20-9260-10EDAC4EE7D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{C7D89D96-FFBB-4422-951D-BDC7FBE7E2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE165B01-133F-4F20-9260-10EDAC4EE7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE165B01-133F-4F20-9260-10EDAC4EE7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE165B01-133F-4F20-9260-10EDAC4EE7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE165B01-133F-4F20-9260-10EDAC4EE7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D89D96-FFBB-4422-951D-BDC7FBE7E2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D89D96-FFBB-4422-951D-BDC7FBE7E2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D89D96-FFBB-4422-951D-BDC7FBE7E2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D89D96-FFBB-4422-951D-BDC7FBE7E2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3442A5D3-97FF-4505-91F9-B182E4FBCF6E}
+	EndGlobalSection
+EndGlobal

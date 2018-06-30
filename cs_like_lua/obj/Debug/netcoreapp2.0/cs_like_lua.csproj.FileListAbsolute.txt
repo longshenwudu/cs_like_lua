@@ -1,0 +1,9 @@
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Debug\netcoreapp2.0\cs_like_lua.csprojAssemblyReference.cache
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Debug\netcoreapp2.0\cs_like_lua.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Debug\netcoreapp2.0\cs_like_lua.AssemblyInfoInputs.cache
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Debug\netcoreapp2.0\cs_like_lua.AssemblyInfo.cs
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Debug\netcoreapp2.0\cs_like_lua.deps.json
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Debug\netcoreapp2.0\cs_like_lua.dll
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Debug\netcoreapp2.0\cs_like_lua.pdb
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Debug\netcoreapp2.0\cs_like_lua.dll
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Debug\netcoreapp2.0\cs_like_lua.pdb

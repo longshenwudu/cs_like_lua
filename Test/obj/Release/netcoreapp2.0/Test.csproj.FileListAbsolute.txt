@@ -1,0 +1,15 @@
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\Test.deps.json
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\Test.runtimeconfig.json
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\Test.runtimeconfig.dev.json
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\Test.dll
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\Test.pdb
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\cs_like_lua.dll
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\GoldParser.dll
+D:\Users\Administrator\source\repos\cs_like_lua\Test\bin\Release\netcoreapp2.0\cs_like_lua.pdb
+D:\Users\Administrator\source\repos\cs_like_lua\Test\obj\Release\netcoreapp2.0\Test.csprojAssemblyReference.cache
+D:\Users\Administrator\source\repos\cs_like_lua\Test\obj\Release\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\source\repos\cs_like_lua\Test\obj\Release\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+D:\Users\Administrator\source\repos\cs_like_lua\Test\obj\Release\netcoreapp2.0\Test.AssemblyInfo.cs
+D:\Users\Administrator\source\repos\cs_like_lua\Test\obj\Release\netcoreapp2.0\Test.csproj.CopyComplete
+D:\Users\Administrator\source\repos\cs_like_lua\Test\obj\Release\netcoreapp2.0\Test.dll
+D:\Users\Administrator\source\repos\cs_like_lua\Test\obj\Release\netcoreapp2.0\Test.pdb

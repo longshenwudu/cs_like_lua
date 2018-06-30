@@ -1,0 +1,13 @@
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Release\netcoreapp2.0\cs_like_lua.deps.json
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Release\netcoreapp2.0\cs_like_lua.dll
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Release\netcoreapp2.0\cs_like_lua.pdb
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Release\netcoreapp2.0\GoldParser.dll
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Release\netcoreapp2.0\GoldParser.pdb
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\bin\Release\netcoreapp2.0\GoldParser.xml
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Release\netcoreapp2.0\cs_like_lua.csprojAssemblyReference.cache
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Release\netcoreapp2.0\cs_like_lua.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Release\netcoreapp2.0\cs_like_lua.AssemblyInfoInputs.cache
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Release\netcoreapp2.0\cs_like_lua.AssemblyInfo.cs
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Release\netcoreapp2.0\cs_like_lua.csproj.CopyComplete
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Release\netcoreapp2.0\cs_like_lua.dll
+D:\Users\Administrator\source\repos\cs_like_lua\cs_like_lua\obj\Release\netcoreapp2.0\cs_like_lua.pdb
